@@ -1,2 +1,2 @@
 # we-are-hiring
-Join us
+Join us: our mission is to disrupt frontend
